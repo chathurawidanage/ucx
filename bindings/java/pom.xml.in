@@ -165,7 +165,7 @@
       <resource>
         <directory>resources</directory>
         <includes>
-          <include>libjucx.so</include>
+          <include>**/*</include>
         </includes>
       </resource>
     </resources>
